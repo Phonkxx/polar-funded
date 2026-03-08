@@ -1,0 +1,3 @@
+/api/create-payment-intent  /.netlify/functions/create-payment-intent  200
+/api/create-woo-order       /.netlify/functions/create-woo-order       200
+/api/validate-coupon        /.netlify/functions/validate-coupon        200
